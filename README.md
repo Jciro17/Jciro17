@@ -2,8 +2,7 @@
 
 👨‍🎓 &nbsp;I'm Jeronimo Ciro, a 7th-semester Systems Engineering student.  
 💡 &nbsp;Passionate about software development, clean architecture, and best coding practices.  
-🎯 &nbsp;Strong focus on backend development, microservices, and cloud computing.  
-🚀 &nbsp;Constantly learning about design patterns, scalable systems, and DevOps methodologies.  
+🎯 &nbsp;Strong focus on backend development, microservices, and cloud computing.   
 📚 &nbsp;Interested in Java, Spring Boot, and software architecture principles.  
 
 ---
@@ -41,19 +40,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/JeronimoCiro">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeronimoCiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Jciro17">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jciro17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/JeronimoCiro">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeronimoCiro&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Jciro17">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jciro17&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
