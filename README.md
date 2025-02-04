@@ -1,8 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍🎓 &nbsp;I'm Jeronimo Ciro, a 7th-semester Systems Engineering student.  
-💡 &nbsp;Passionate about software development, clean architecture, and best coding practices.  
-🎯 &nbsp;Strong focus on backend development, microservices, and cloud computing.   
+💡 &nbsp;Passionate about software development, clean architecture, and best coding practices.   
 📚 &nbsp;Interested in Java, Spring Boot, and software architecture principles.  
 
 ---
